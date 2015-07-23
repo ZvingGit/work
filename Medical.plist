@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://203.195.129.233/ios/iBt.ipa</string>
+					<string>http://medbooks.ipmph.com/medical/upload/Medical.html</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -39,7 +39,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>买眼镜</string>
+				<string>西医数据库</string>
 			</dict>
 		</dict>
 	</array>
